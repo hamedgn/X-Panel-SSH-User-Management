@@ -6,7 +6,7 @@
 <h1 align="center"/>X Panel</h1>
 <h6 align="center">X Panel SSH User Management<h6>
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/hamedgn/X-Panel-SSH-User-Management">
+<img alt="GitHub release (latest by date)" src="[https://img.shields.io/github/v/release/hamedgn/X-Panel-SSH-User-Management](https://img.shields.io/github/v/release/hamedgn/X-Panel-SSH-User-Management)">
 </p>
  
 <p align="center">
