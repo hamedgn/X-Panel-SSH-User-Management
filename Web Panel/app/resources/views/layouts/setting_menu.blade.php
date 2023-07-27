@@ -4,9 +4,6 @@
             <a href="user" class="nav-link" type="button" role="tab" aria-selected="false" tabindex="-1">Multi User</a>
         </li>
         <li class="nav-item" role="presentation">
-            <a href="https://github.com/Alirezad07/Xcs-Multi-Management-XPanel" target="_blank" class="nav-link" type="button" role="tab" aria-selected="false" tabindex="-1">Multi Server</a>
-        </li>
-        <li class="nav-item" role="presentation">
             <a href="backup" class="nav-link" type="button" role="tab" aria-selected="false" tabindex="-1">Backup</a>
         </li>
         <li class="nav-item" role="presentation">

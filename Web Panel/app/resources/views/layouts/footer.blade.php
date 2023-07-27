@@ -7,8 +7,7 @@
             <div class="col-auto my-1">
                 <ul class="list-inline footer-link mb-0">
                     <li class="list-inline-item"><a href="{{route('document')}}">API</a></li>
-                    <li class="list-inline-item"><a href="https://github.com/Alirezad07/X-Panel-SSH-User-Management/blob/main/README-EN.md#supporting-us-hearts">Supporting us</a></li>
-                    <li class="list-inline-item"><a href="https://github.com/Alirezad07/X-Panel-SSH-User-Management">GitHub</a></li>
+                    <li class="list-inline-item"><a href="https://zarinp.al/519779">Supporting us</a></li>
                 </ul>
             </div>
         </div>
