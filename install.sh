@@ -58,10 +58,10 @@ echo -e "${GREEN}  1)XPanel v3.7"
 echo -ne "${GREEN}\nSelect Version : ${ENDCOLOR}" ;read n
 if [ "$n" != "" ]; then
 if [ "$n" == "1" ]; then
-linkd=https://api.github.com/repos/hamedgn/X-Panel-SSH-User-Management/releases/tags/xpanelv376
+linkd=https://api.github.com/repos/hamedgn/X-Panel-SSH-User-Management/releases/tags/xpanelv3761
 fi
 else
-linkd=https://api.github.com/repos/hamedgn/X-Panel-SSH-User-Management/releases/tags/xpanelv376
+linkd=https://api.github.com/repos/hamedgn/X-Panel-SSH-User-Management/releases/tags/xpanelv3761
 fi
 
 echo -e "\nPlease input IP Server"
