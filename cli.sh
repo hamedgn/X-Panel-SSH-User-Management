@@ -98,7 +98,7 @@ connect = 0.0.0.0:$sshport
             reboot
             ;;
         4)
-            bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/install.sh --ipv4)
+            bash <(curl -Ls https://raw.githubusercontent.com/hamedgn/X-Panel-SSH-User-Management/main/install.sh --ipv4)
             ;;
         5)
         echo "You accept the risk of removing the panel (y/n)"

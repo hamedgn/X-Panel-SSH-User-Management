@@ -37,7 +37,7 @@
                                             <BR>
                                             3- Put the created robot token and the numerical ID of the Telegram account in the following fields
                                             <BR>
-                                            <a href="https://github.com/Alirezad07/X-Panel-SSH-User-Management">Github link to provide SSL</a>
+                                            <a href="https://github.com/hamedgn/X-Panel-SSH-User-Management">Github link to provide SSL</a>
                                         </div>
                                     </div>
                                     <div class="form-group row">
