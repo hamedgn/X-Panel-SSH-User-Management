@@ -13,7 +13,7 @@
 <!-- [ Pre-loader ] End -->
 @include('layouts.topnav')
 @php
-    $json = file_get_contents('https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/version.json');
+    $json = file_get_contents('https://raw.githubusercontent.com/hamedgn/X-Panel-SSH-User-Management/main/version.json');
     $obj = json_decode($json);
     $github='https://github.com/Alirezad07/X-Panel-SSH-User-Management#%D9%86%D8%B5%D8%A8';
 @endphp
